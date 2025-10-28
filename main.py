@@ -4,7 +4,7 @@ import random
 def rock_paper_scissors():
     choices = ["камень", "ножницы", "бумага"]
 
-    print("Игра 'Камень-Ножницы-Бумага'")
+    print("Игра 'ЦУ-Е-ФА'")
     print("Выбери: камень, ножницы или бумага")
 
     while True:
